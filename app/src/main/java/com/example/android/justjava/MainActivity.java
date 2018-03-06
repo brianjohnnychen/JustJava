@@ -16,12 +16,11 @@ import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.CheckBox;
-import android.widget.Checkable;
 import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
+import java.text.NumberFormat;
 
-import org.w3c.dom.Text;
 
 /**
  * This app displays an order form to order coffee.
