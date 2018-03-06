@@ -9,7 +9,7 @@
     <string name="whipped_cream">奶油</string>
     <string name="order">點單</string>
 
-    <!--Need to change this string manually when adding a new language.-->
+    <!--Need to change this particular string manually when adding a new language localization.-->
     <!--<string name="order_summary_name">名字</string>-->
         <string name="order_summary_name">名字: <xliff:g id="name" example="Elaine">%s</xliff:g></string>
 </resources>
