@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="name">名字</string>
+    <string name="chocolate">巧克力</string>
+    <string name="quantity">數量</string>
+    <string name="thank_you">謝謝</string>
+    <string name="toppings">添加</string>
+    <string name="whipped_cream">奶油</string>
+    <string name="order">點單</string>
+    <string name="order_summary_name">名字</string>
+</resources>
